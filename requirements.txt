@@ -1,0 +1,4 @@
+bip_utils==2.7.0
+cosmpy==0.5.1
+pycoingecko==3.1.0
+python-dotenv==0.21.0
